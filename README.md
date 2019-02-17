@@ -29,4 +29,5 @@
 - [] bonus bonus: add individual checkoffs for each person added to a task
 - [] mayybbbe bonus: add resyncs on a timer/stream for firestore to get data all the time ($$??)
 
-android com name -> com.manager.projectmanagermini
+deployed to ios app store
+--> migrating to android x then submit to google play
