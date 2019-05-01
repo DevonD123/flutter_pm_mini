@@ -16,8 +16,6 @@
 - [X] add perm login 
 - [X] add reset pass email
 - get screenshots etc... desc... make accounts and deploy
-- [ ] set up fb for ios (giving error)
-- [ ] add sort for completed ---> make sure it works for the second fetched todos aswell ---> changed fetch to pass the list to the helper fetch so only 1 sort and no 2 part view set
 - [X] make sure to trim text if exeeds length
 
 - [] bonus: add offline notification/maybbee offline support for some things/resync when online
